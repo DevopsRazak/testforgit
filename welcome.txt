@@ -11,3 +11,5 @@ changes made by branch feature_100
 changes made by branch feature_100
 addeed second change in featire100
 >>>>>>> 5fb486f ( added second change in feature100)
+added third change in feature_100
+>>>>>>> 9bbbc63 ( addded third change in feature100)
