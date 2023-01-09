@@ -7,9 +7,15 @@ added change
 added a chenge to check rebase
 changes made by branch feature_100
 271c1c4 (added change in feature100)
->>>>>>> d0e6612 (added change in feature100)
+
 changes made by branch feature_100
 addeed second change in featire100
->>>>>>> 5fb486f ( added second change in feature100)
+
+
 added third change in feature_100
->>>>>>> 9bbbc63 ( addded third change in feature100)
+
+
+added third change in feature_100
+
+added a change 
+
